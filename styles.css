@@ -1,0 +1,39 @@
+a {
+ color: #94D1BE;
+}
+
+body {
+  text-align: center;
+  margin: 0 5% 10% 5%;
+  background-color: #FFF;
+  color: #9DB5B2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3B4130;
+}
+
+h1 {
+  display: inline-block;
+  margin: none;
+}
+
+p {
+  text-align: left;
+}
+
+.aboutMeImage {
+  display: inline-block;
+  border-radius: 100%;
+  height: 20%;
+  width: 20%;
+  position: relative;
+}
+
+.siteTitle {
+  padding: 20px;
+}
+
+.topper {
+  padding: 20px;
+}
